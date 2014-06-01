@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name         = "JVRCoreDataCellHelper"
   s.version      = "1.0.0"
-  s.summary      = "Helper delegate protocol implemented by the class responsible for the configuration of UICollectionViewCell and UITableViewCell objects and the handling of item deletion"
+  s.summary      = "Helper delegate protocol for the configuration of UICollectionViewCell and UITableViewCell objects and to handle item deletion"
   s.homepage     = "https://github.com/jozsef-vesza/JVRCoreDataCellHelper"
   s.license      = "MIT"
   s.author             = { "József Vesza" => "jozsef.vesza@outlook.com" }
